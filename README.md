@@ -7,4 +7,4 @@
 |---|---|---|
 |20210113|🔗|숫자형, 문자열, 리스트, 튜플, 딕셔너리, 집합|
 |20210120|[🔗](https://github.com/IsaacTips/Jump_To_Python/blob/main/20210120JTPy.ipynb)|불, 변수, 제어문|
-|20210127|🔗|04장 프로그램의 입력과 출력은 어떻게 해야 할까?|
+|20210127|[🔗](https://github.com/IsaacTips/Jump_To_Python/blob/main/20210127JTPy.ipynb)|04장 프로그램의 입력과 출력은 어떻게 해야 할까?|
